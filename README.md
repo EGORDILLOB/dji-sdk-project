@@ -7,7 +7,7 @@ Este proyecto tiene como objetivo aprender y desarrollar aplicaciones avanzadas 
 2. Crear una aplicación Android para controlar funciones básicas del dron (gimbal, vuelo, etc.).
 3. Integrar modelos de IA para tareas avanzadas, como detección y seguimiento de objetos.
 
-## Estructura del Repositorio
+## Estructura del Proyecto
 - `code/`: Código fuente del proyecto.
 - `docs/`: Documentación técnica y guías.
 - `references/`: Recursos y materiales de estudio.
